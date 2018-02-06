@@ -1,4 +1,4 @@
-# SixNationsPolytechnic-2018 class
+# SixNationsPolytechnic-2018 classes
 # Class #1 -Burglar Alarm
 #### Code:
 #### Presentation:
