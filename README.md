@@ -9,7 +9,8 @@
 #### https://github.com/SixNationsPolytechnic/2018-02-7SegLED/blob/master/SNP-2nd-7SegLCD-SbyS-2018Mar28.pdf
 ### Video 
 #### https://www.youtube.com/watch?v=V5iYPXIHJrQ
-
+### Node-RED flow
+#### https://raw.githubusercontent.com/SixNationsPolytechnic/2018-02-7SegLED/master/7segled.flow
 
 SNP 2018 Classes - Markus van Kempen - mvk@ca.ibm.com
 
